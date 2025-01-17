@@ -7,7 +7,7 @@ Vagrant.configure("2") do |config|
     config.vm.define "MySqlDB" do |db|
         db.vm.box = "eurolinux-vagrant/centos-stream-9"
         db.vm.box_version = "9.0.43"
-        db.vm.hostname = "mysqldb"
+        db.vm.hostname = "MySqlDB"
         db.vm.network "private_network", ip: "192.168.56.50"
         db.vm.provider "virtualbox" do |vb|
             vb.memory = "600"
@@ -57,3 +57,4 @@ Vagrant.configure("2") do |config|
     end
                    
 end
+
