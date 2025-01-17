@@ -2,4 +2,4 @@
 Understanding vagrant and how to setup infrastructure fast , reliably and trackable 
 
 # Overview 
-This setup is a ment to be configurable . You have only the basic configuration in order to install any version of the packadge suited to your need
+this in an automated setup for minimal interaction that can be changed for faster deployment
