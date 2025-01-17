@@ -1,1 +1,0 @@
-{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"E:/vagrant-vms/Vagrant-website-setup/vagrant-website-setup-demo","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
